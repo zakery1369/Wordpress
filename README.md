@@ -1,6 +1,6 @@
 # Wordpress
 
-![Moodle Docker](https://.png)
+![Wordpress Docker](https://.png)
 
 - ## How to use this image:
 
