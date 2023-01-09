@@ -1,6 +1,6 @@
 # Wordpress
 
-![Wordpress Docker](https://.png)
+![Wordpress Docker](https://raw.githubusercontent.com/zakery1369/pics/master/Wordpress.png)
 
 - ## How to use this image:
 
