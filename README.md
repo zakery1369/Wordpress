@@ -25,7 +25,6 @@ Database Name = wordpress
 Username = wp
 Password = 147258369
 Database Host = mysql
-Tables prefix = mdl_
 Table Prefix = wp_
 ```
 
