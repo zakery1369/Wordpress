@@ -19,7 +19,11 @@ docker-compose up -d
 ```
 127.0.0.1
 ```
-6. In the Database settings, adjust the following :
+6. If see 404 ERORE :
+```
+chmod 777 -R var/
+```
+7. In the Database settings, adjust the following :
 ```
 Database Name = wordpress
 Username = wp
