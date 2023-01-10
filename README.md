@@ -19,7 +19,7 @@ docker-compose up -d
 ```
 127.0.0.1
 ```
-6. If see 404 ERORE :
+6. If see 404 ERROR :
 ```
 chmod 777 -R var/
 ```
